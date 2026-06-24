@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/vivek-jais/Interview_DSA/tree/master/0472-concatenated-words) |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-buddy-strings](https://github.com/vivek-jais/Interview_DSA/tree/master/0859-buddy-strings) |
+## Math
+|  |
+| ------- |
+| [3700-number-of-zigzag-arrays-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 <!---LeetCode Topics End-->
