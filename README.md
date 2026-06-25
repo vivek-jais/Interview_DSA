@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/vivek-jais/Interview_DSA/tree/master/0093-restore-ip-addresses) |
 | [0472-concatenated-words](https://github.com/vivek-jais/Interview_DSA/tree/master/0472-concatenated-words) |
 | [0859-buddy-strings](https://github.com/vivek-jais/Interview_DSA/tree/master/0859-buddy-strings) |
+| [2272-substring-with-largest-variance](https://github.com/vivek-jais/Interview_DSA/tree/master/2272-substring-with-largest-variance) |
 ## Backtracking
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0472-concatenated-words](https://github.com/vivek-jais/Interview_DSA/tree/master/0472-concatenated-words) |
+| [2272-substring-with-largest-variance](https://github.com/vivek-jais/Interview_DSA/tree/master/2272-substring-with-largest-variance) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Depth-First Search
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0859-buddy-strings](https://github.com/vivek-jais/Interview_DSA/tree/master/0859-buddy-strings) |
+| [2272-substring-with-largest-variance](https://github.com/vivek-jais/Interview_DSA/tree/master/2272-substring-with-largest-variance) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Enumeration
+|  |
+| ------- |
+| [2272-substring-with-largest-variance](https://github.com/vivek-jais/Interview_DSA/tree/master/2272-substring-with-largest-variance) |
 <!---LeetCode Topics End-->
