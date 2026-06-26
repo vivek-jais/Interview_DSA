@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0472-concatenated-words](https://github.com/vivek-jais/Interview_DSA/tree/master/0472-concatenated-words) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-buddy-strings](https://github.com/vivek-jais/Interview_DSA/tree/master/0859-buddy-strings) |
 | [2272-substring-with-largest-variance](https://github.com/vivek-jais/Interview_DSA/tree/master/2272-substring-with-largest-variance) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -60,14 +62,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
 | ------- |
@@ -76,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/vivek-jais/Interview_DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/vivek-jais/Interview_DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Enumeration
 |  |
 | ------- |
